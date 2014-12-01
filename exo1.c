@@ -7,7 +7,7 @@ int nbr=0;
 
 void f_handler(int sig)
 {
-	
+	printf("Modification lol");
 }
 void tourte(int sig)
 {
